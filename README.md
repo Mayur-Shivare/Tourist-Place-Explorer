@@ -20,13 +20,10 @@ for read and taking decision where we go for travel for that user.
 ![image](https://github.com/Mayur-Shivare/Tourist-Place-Explorer/assets/145893689/079b554c-a074-44e5-9ac4-563e35a6e87d)
 
 step:3 About
-In the about page few lines are given about the travelling places to inspire the user 
-to choose place to travel .
+In the about page few lines are given about our traveling wesite.
 
-![image](https://github.com/Mayur-Shivare/Tourist-Place-Explorer/assets/145893689/b344a52e-2b5e-445f-8260-3ee127c37687)
+![image](https://github.com/Mayur-Shivare/Tourist-Place-Explorer/assets/145893689/72249873-8470-4e95-b3cb-456de308a979)
 
-step:4 footer
-In the footer "thank you" sentence is present.
 
-![image](https://github.com/Mayur-Shivare/Tourist-Place-Explorer/assets/145893689/4e0f1186-0c84-4dcc-8b18-9e40ef9ec9a2)
+
 
